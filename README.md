@@ -1,5 +1,11 @@
 # BadCookiesOut
 
+## Currently solves cookie consent banners:
+
+- Solves >>> https://www.kdomivolal.eu/
+- Solves >>> https://www.mediafire.com/download/gp00z1oqvlmc4pr
+- WIP >>> https://icon-icons.com/search/icons/?filtro=google+chrome
+
 ## Warning
 
 The automatic unchecking currently works only in the default browser tab. Additionally, if the program has been launched, you will need to either restart your computer or end the task in Task Manager before you can remove or move the program.
@@ -17,7 +23,7 @@ Users can easily execute the program from their development environment (e.g., I
 ## Use Cases
 #### - Avoiding Tracking and Advertisement Cookies:
 
-Users who want to browse the web without being tracked or bombarded by targeted ads can use Infinite Loop to automatically uncheck all cookies related to tracking, advertising, and analytics.
+Users who want to browse the web without being tracked or bombarded by targeted ads can use this program to automatically uncheck all cookies related to tracking, advertising, and analytics.
 #### - Time-Saving for Frequent Visitors:
 
 For users who visit websites with intrusive cookie banners frequently, Infinite Loop can save time by automatically managing cookie preferences every time they visit these sites, removing the need for manual intervention.
