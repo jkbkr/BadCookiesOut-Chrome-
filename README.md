@@ -1,4 +1,4 @@
-# BadCookiesOut
+# CookiesOut
 
 ## Currently solves cookie consent banners:
 
@@ -76,5 +76,14 @@ If you don't use WebDriverManager and your project works fine without explicitly
 
 #### 6. Run the Program:
 
-- Once the project is set up and dependencies are installed, you can run the program directly from your IDE by selecting the main class (the class with the __MakeBadCookiesGoOut__ method) and hitting Run.
+- Once the project is set up and dependencies are installed, you can run the program directly from your IDE by selecting the main class (the class with the __RemoveCookiesLoop__ method) and hitting Run.
 - The program will automatically open the browser, navigate to the specified website(s), and perform cookie consent actions.
+
+## Disclaimer
+
+This application is provided for educational purposes only. It is designed to demonstrate automated browser interactions and cookie management techniques.
+
+By using this application, you agree that you are solely responsible for ensuring compliance with all applicable laws and regulations, including but not limited to privacy and cookie consent laws such as GDPR. The author of this program assumes no liability for any misuse or legal issues arising from its use.
+
+Use this tool responsibly.
+
