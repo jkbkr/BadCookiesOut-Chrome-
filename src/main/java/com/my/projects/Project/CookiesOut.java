@@ -81,16 +81,13 @@ public void Before() {
         CookieBanner_2.checkboxAssertion();
     }
 
-    //TODO: WIP
 //For >>> CookieBanner_3
     public void CookiesOut_3(){
         cb3.setManageSettings(cb3.manageSettings);
-        //wait for testing purposes
-        try{
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
         CookieBanner_3.noButtonsCheckedAssertion();
+        CookieBanner_3.SelectVendors();
+        CookieBanner_3.noButtonsCheckedAssertionVendors();
+        CookieBanner_3.LegitimateInterest();
+        CookieBanner_3.ObjectToEverything();
     }
 }
